@@ -22,7 +22,6 @@ button {
 
     &:hover,
     &:focus {
-      background-color: white;
       color: #e43a12;
       outline: 0.25rem solid var(--surface-secondary);
     }
